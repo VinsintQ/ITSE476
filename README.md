@@ -26,11 +26,11 @@ Read our standards and guidelines for contributing to the project.
 
 Learn how we collaborate and communicate with contributors.
 
-### [Developer Documentation]()
+### [Developer Documentation](https://github.com/VinsintQ/ITSE476/blob/main/developer_documintation.md)
 
 Explore the technical details and documentation aimed at developers.
 
-### [Developer Guidelines]()
+### [Developer Guidelines](https://github.com/VinsintQ/ITSE476/blob/main/Developer_Guidelines.md)
 
 Guidelines for developers who wish to contribute to the project.
 
