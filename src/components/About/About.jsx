@@ -13,6 +13,21 @@ const About = () => {
          <ul>
             <li>Mueen <p>Developer</p></li>
             </ul>
+
+        <h2>License</h2> 
+        <h3>GNU General Public License</h3>   
+       <p>Fitness Log is released under the GNU General Public License v3.0.
+         This license ensures that the software remains free and open-source, 
+         allowing users to use, modify, and distribute the code.</p> 
+         
+    <ul><li>You are free to use, modify, and distribute this software.</li>
+<li>
+If you share modified versions, your changes must also be made available under this same license.
+ Please include a copy of the license and the copyright notice with any distribution.
+</li>
+<li>This software comes with no warranty, as permitted by applicable law.</li></ul>
+
+
       </main>
     );
   };
