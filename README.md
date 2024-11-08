@@ -62,5 +62,3 @@ We welcome contributions! Please review our [contribution guidelines]() to get s
 If you have feedback, need support, or have any inquiries, feel free to open an issue in our [issue tracker](https://github.com/VinsintQ/ITSE476/issues).
 
 ---
-
-This structure covers all essential points and follows the same organized layout as the reference car rental system. You can now create links to the respective GitHub files as you build the project!
