@@ -1,0 +1,54 @@
+.highlights-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 40px 0;
+    text-align: center;
+  }
+  
+  .highlight-item {
+    max-width: 250px;
+    padding: 20px;
+  }
+  
+  .icon-circle {
+    background-color: #00A94F;
+    color: white;
+    font-size: 2.5rem;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 20px;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+    color: #555;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 0.9rem;
+    color: #777;
+    margin-bottom: 15px;
+  }
+  
+  .highlight-link {
+    color: #00A94F;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  .highlight-link:hover {
+    text-decoration: underline;
+  }
+  
+  @media (max-width: 768px) {
+    .highlights-container {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  
