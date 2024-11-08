@@ -14,7 +14,7 @@ Learn how to get started with our project by following these detailed setup inst
 
 Development Status of the project
 
-### [Version Control and Bug Tracking]()
+### [Version Control and Bug Tracking](https://github.com/VinsintQ/ITSE476/blob/main/Version_control_Bug_tracker.md)
 
 See how we manage version control and track bugs using GitHub's powerful tools.
 
@@ -22,7 +22,7 @@ See how we manage version control and track bugs using GitHub's powerful tools.
 
 Read our standards and guidelines for contributing to the project.
 
-### [Communication Channels]()
+### [Communication Channels](https://github.com/VinsintQ/ITSE476/blob/main/Communication_Channels.md)
 
 Learn how we collaborate and communicate with contributors.
 

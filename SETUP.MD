@@ -25,8 +25,6 @@ To get started with the **Fitness-log**, you’ll need:
 
 ## Step 3: Running the Project
 
-1. **Start the backend**:
-
 inside the file directory write the following command
 
 npm run dev
