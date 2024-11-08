@@ -23,7 +23,7 @@ const Dashboard = () => {
         <div className="icon-circle"><FaStar /></div>
         <h2>Fitness Log Conference 2024</h2>
         <p>December 10 – 12 in Manama. We'll have workshops, discussions and lots of fun!</p>
-        <a href="#join" className="highlight-link">Join us there</a>
+        <p className="highlight-link">Join us there</p>
       </div>
       <div className="highlight-item">
         <div className="icon-circle"><FaThumbsUp /></div>

@@ -25,7 +25,8 @@ const About = () => {
 If you share modified versions, your changes must also be made available under this same license.
  Please include a copy of the license and the copyright notice with any distribution.
 </li>
-<li>This software comes with no warranty, as permitted by applicable law.</li></ul>
+<li>This software comes with no warranty, as permitted by applicable law.</li><li>
+<h4> <a href="https://github.com/VinsintQ/ITSE476?tab=GPL-3.0-1-ov-file">Full license</a></h4></li></ul>
 
 
       </main>
