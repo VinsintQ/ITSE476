@@ -34,13 +34,11 @@ Explore the technical details and documentation aimed at developers.
 
 Guidelines for developers who wish to contribute to the project.
 
-### [Features and Requirements]()
+### [Features and Requirements](https://github.com/VinsintQ/ITSE476/blob/main/Features_Requirements.md)
+
+Features_Requirements
 
 ### [License](https://github.com/VinsintQ/ITSE476/blob/main/LICENSE.txt)
-
-View the licensing terms for using and contributing to this project.
-
-Alright, let’s get real. Here’s a straightforward **SETUP.md** for your **Bicycle Rental System** GitHub project—no fluff, just what new devs need to get up and running:
 
 ---
 
