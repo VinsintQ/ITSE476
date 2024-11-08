@@ -51,14 +51,6 @@ If you run into issues:
 - **Node.js version issues?** Make sure you’ve installed the latest LTS version of Node.js.
 - **Missing dependencies?** Run `npm install` again in both the root and `client` directories.
 
----
-
-Now, link this **SETUP.md** to your **README.md** like this:
-
-```markdown
-### [Setup Instructions]()
-```
-
 This is no-nonsense and gives them exactly what they need. Let me know if you need any adjustments!
 
 ## Contributing
