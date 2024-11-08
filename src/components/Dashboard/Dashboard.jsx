@@ -3,11 +3,17 @@
 const Dashboard = () => {
     return (
       <main>
-        <h1>Welcome</h1>
+        <h1>Welcome to Fitness Log</h1>
         <p>
-          This is the dashboard page where you, and only you, can see a dashboard
-          of all of your things.
+        Fitness Log is an open source project that allows you to track your workouts and fitness goals.
         </p>
+        <h3>Features </h3>
+        <ul>
+          <li>Track your workouts</li>
+          <li>calculate calories</li>
+          <li>View your progress</li>
+          <li>calculate bmi </li>
+        </ul>
       </main>
     );
   };
