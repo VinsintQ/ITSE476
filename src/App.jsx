@@ -8,7 +8,7 @@ import Join from "./components/Joinus/JoinUs";
 import Faq from "./components/Faq/Faq";
 import Announcement from "./components/Announcement/Announcement";
 import Conduct from "./components/conduct/conduct";
-import Download from "../public/file_zip.zip/components/Download/Download";
+import Download from "./components/Download/Download";
 import Docs from "./components/Docs/Docs";
 import { FaQ } from "react-icons/fa6";
 
