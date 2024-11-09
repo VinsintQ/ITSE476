@@ -1,0 +1,87 @@
+.docs-page {
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #f8f9fa;
+  padding: 2rem;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.docs-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.docs-header h1 {
+  font-size: 2.5rem;
+  color: #222;
+  margin: 0;
+  font-weight: bold;
+}
+
+.docs-section {
+  background-color: #ffffff;
+  padding: 2rem;
+  margin: 1rem 0;
+  border-radius: 10px;
+  width: 100%;
+  max-width: 800px;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.docs-section h2 {
+  font-size: 1.8rem;
+  color: #555;
+  margin-bottom: 1rem;
+}
+
+.requirements-list,
+.installation-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.requirements-list li,
+.installation-list li {
+  margin: 0.5rem 0;
+  font-size: 1rem;
+  color: #444;
+  padding-left: 1.5rem;
+  position: relative;
+}
+
+.requirements-list li::before,
+.installation-list li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: #6366f1;
+  font-weight: bold;
+}
+
+code {
+  display: inline-block;
+  background-color: #e9ecef;
+  padding: 0.3rem 0.6rem;
+  border-radius: 4px;
+  font-family: monospace;
+  color: #d63384;
+  margin-top: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .docs-header h1 {
+    font-size: 2rem;
+  }
+
+  .docs-section h2 {
+    font-size: 1.5rem;
+  }
+
+  .requirements-list li,
+  .installation-list li {
+    font-size: 0.9rem;
+  }
+}
