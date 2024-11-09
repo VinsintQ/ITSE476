@@ -7,7 +7,7 @@ const Join = () => {
         <p>
         FitnessLog is an open-source project, inviting contributions from developers of all experience levels. Whether you're a seasoned expert or new to coding, there are many ways you can help enhance our workout tracking platform.
 
-By contributing to FitnessLog, you’ll gain hands-on experience with open-source development, collaborate with a diverse global community, and support others in reaching their fitness goals. Together, we’re building a tool that empowers healthy, active lifestyles.
+       By contributing to FitnessLog, you’ll gain hands-on experience with open-source development, collaborate with a diverse global community, and support others in reaching their fitness goals. Together, we’re building a tool that empowers healthy, active lifestyles.
 
 
 
@@ -37,7 +37,7 @@ By contributing to FitnessLog, you’ll gain hands-on experience with open-sourc
             </ul>
 
             <h2>
-  <a href="https://github.com/VinsintQ/Fitness-Log.git" className="button-link">GitHub Repository</a>
+  <a href="https://github.com/VinsintQ/ITSE476.git" className="button-link">GitHub Repository</a>
 </h2>
 
       </main>
